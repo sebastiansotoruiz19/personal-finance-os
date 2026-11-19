@@ -67,10 +67,10 @@ Portfolio Lab — practical solutions, continuous improvement.
 ## Product Preview
 
 ### Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard%20PL-001.png)
 
 ### Financial Reports
-![Financial Reports](Screenshots/financial-reports.png)
+![Financial Reports](Screenshots/Reports%20PL-001.png)
 
 ### Trading Reports
-![Trading Reports](Screenshots/trading-reports.png)
+![Trading Reports](Screenshots/Trading%20Report%20PL-001.png)
