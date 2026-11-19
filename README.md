@@ -63,3 +63,14 @@ See [CHANGELOG.md](CHANGELOG.md).
 Sebastian Soto Ruiz — [GitHub profile](https://github.com/sebastiansotoruiz19)
 
 Portfolio Lab — practical solutions, continuous improvement.
+
+## Product Preview
+
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### Financial Reports
+![Financial Reports](Screenshots/financial-reports.png)
+
+### Trading Reports
+![Trading Reports](Screenshots/trading-reports.png)
